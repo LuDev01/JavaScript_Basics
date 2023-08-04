@@ -8,3 +8,5 @@ El repositorio está dividido en varias secciones:
 * test3.js: Se encuentra los ejercicios de condicional if
 * test4.js: Se encuentra los ejercicios de bucle for
 * test5.js: Se encuentra los ejercicios de bucle while
+
+Nota: Todos los ejercicios están comentados, por lo que si se desea ejecutar uno en específico, se debe descomentar y visualziar la respuesta en el Console del navegador.
